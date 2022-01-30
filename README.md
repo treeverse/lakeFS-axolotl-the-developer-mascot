@@ -22,4 +22,4 @@ Please contact me if you wish to use any of this artwork for commercial purposes
 
 [@lakeFS](https://twitter.com/lakeFS)
 
-
+![preview](https://github.com/treeverse/lakeFS-Developer-Advocate-Axolotl/blob/main/stickers.png)
