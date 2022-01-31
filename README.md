@@ -1,4 +1,4 @@
-# Readme -  lakeFS-Developer-Axolotl Mascot
+# Readme -  lakeFS Developer Mascot - Axolotl
 ----------------------
  
 ## How can you use these things?
