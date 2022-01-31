@@ -1,4 +1,4 @@
-# Readme -  lakeFS-Developer-Advocate-Axolotl
+# Readme -  lakeFS-Developer-Axolotl
 ----------------------
  
 ## How can you use these things?
