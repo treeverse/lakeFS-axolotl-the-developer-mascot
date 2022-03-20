@@ -5,7 +5,7 @@
 
 Download and unzip the artwork.zip and in there you'll find the PNG files. 
 These files are ready to print and I suggest [Sticker Mule](https://www.stickermule.com/unlock?ref_id=2875244701&utm_medium=link&utm_source=invite) for high-quality, color correct, stickers. 
-They also have [Sticker Sheets](https://www.stickermule.com/products/sticker-sheets).
+They also have [Sticker Sheets](https://www.stickermule.com/products/sticker-sheets). 
 
 
 ## Software used
